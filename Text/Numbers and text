@@ -1,0 +1,6 @@
+Add a number from a cell with a text symbol:
+
+=A1 & ","
+
+ If you want to format the number (e.g., adding commas to separate thousands) and then add a comma:
+=TEXT(A1, "#,##0") & ","
