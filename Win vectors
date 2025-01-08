@@ -1,0 +1,2 @@
+If I have one column with the wins (times bet) (column A) and one with the frequency/probaiblity (column B), use
+=SUMPRODUCT(A1:A10,B1:B19) to get the RTP.
